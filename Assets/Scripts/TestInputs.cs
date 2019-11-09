@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using GhAyoub.InputSystem;
 using UnityEngine;
+
 public class TestInputs : MonoBehaviour
 {
     private InputData _pInputData = null;
