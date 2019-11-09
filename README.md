@@ -10,4 +10,6 @@ The implementation contains, for now, three different inputs :
 - Sprint (Hold Key)
 - Fire (Press Only Key)
 
+I used Unity's GUI to demonstrate the execution of the system
 
+![](InputSystemGif.gif)
